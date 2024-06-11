@@ -1,0 +1,9 @@
+## Interface: 40400
+
+## Title: ZoleriiAddon
+## Notes: Zolerii's Test Addon
+## Author: Zolerii
+## Version: 1.0.0
+
+embeds.xml
+Core.lua
